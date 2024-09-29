@@ -19,7 +19,7 @@ Para compilar e executar o código, é necessário instalar o **Mingw** na sua m
 
 ## Instruções de Instalação
 
-1. Baixe e instale o Mingw: [Mingw Downloads](http://www.mingw.org/)
+1. Baixe e instale o Mingw
 2. Após a instalação, certifique-se de adicionar o caminho do Mingw nas variáveis de ambiente do sistema.
 3. Clone este repositório:
 
