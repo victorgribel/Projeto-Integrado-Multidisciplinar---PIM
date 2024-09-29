@@ -24,4 +24,4 @@ Para compilar e executar o código, é necessário instalar o **Mingw** na sua m
 3. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/projeto-hortifruti.git
+   git@github.com:victorgribel/Projeto-Integrado-Multidisciplinar---PIM.git
